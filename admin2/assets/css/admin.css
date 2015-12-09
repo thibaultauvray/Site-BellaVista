@@ -1,0 +1,58 @@
+body {
+  background: #DDD6CE;
+ padding-left: 200px;
+    padding-top: 64px;}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar-fixed-top{
+background: #6C1116;
+}
+
+.navbar {
+	width: 100%;
+}
+
+.nav li a {
+	text-shadow:none !important;
+	
+}
+li{
+	list-style-type:none; 
+}
+
+.btn-primary{
+  margin-right: 10px;
+}
+.villadmin li{
+    float: left;
+    margin-left: 193px;
+}
+.clear{
+	clear: both;
+
+}
+
+.thumb{
+	width: 150px;
+}
+
+  #target {
+    background-color: #ccc;
+    width: 500px;
+    height: 330px;
+    font-size: 24px;
+    display: block;
+  }
+
+ .clienttab {
+        margin: 0 auto;
+    text-align: center
+  }
+  .clienttab td{      
+    border-bottom: 1px solid #000000;
+    width: 100px;}
+
+  .clienttab tr{height: 30px;}
